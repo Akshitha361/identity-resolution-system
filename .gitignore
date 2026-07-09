@@ -4,6 +4,9 @@ __pycache__/
 .venv/
 venv/
 
+# Database
+*.db
+
 # Node / React
 node_modules/
 
